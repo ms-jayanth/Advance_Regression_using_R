@@ -59,19 +59,19 @@ for thrust in terms of the predictor variables.
 
 ## Regression Splines
 
-- Spline
+- Spline<br>
   A continuous function formed by connecting linear segments<br>
   A function constructed piecewise from polynomial functions
 
-- Knots
+- Knots<br>
   The points where the segments are connected
 
-- Spline of degree D
+- Spline of degree D<br>
   A function formed by connecting polynomial segments of degree D so that
-  • Function is continuous
-  • Function has D – 1 continuous derivatives
+  - Function is continuous
+  - Function has D – 1 continuous derivatives
 
-- Usage
+- Usage<br>
   Develop models when relationship between y and x’s is piecewise polynomial
 
 ### Problem Statement:
