@@ -61,7 +61,7 @@ for thrust in terms of the predictor variables.
 
 - Spline<br>
   A continuous function formed by connecting linear segments<br>
-  A function constructed piecewise from polynomial functions
+  A function constructed piecewise from polynomial functions.
 
 - Knots<br>
   The points where the segments are connected
