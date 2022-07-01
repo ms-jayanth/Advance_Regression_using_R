@@ -79,3 +79,7 @@ The data on defect finding rate (design phase) and the
 corresponding defect finding rate (coding phase) of 20 similar projects is given in
 Reg_Spline_DFR.csv. Fit a suitable model to predict defect finding rate in coding
 phase in terms of defect finding rate in design phase?
+
+
+Report file: 
+https://drive.google.com/file/d/1J7xubp8WBkyoc3SEdZMaUVxOLiTLqozh/view?usp=sharing
